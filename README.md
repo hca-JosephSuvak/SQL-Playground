@@ -5,25 +5,25 @@ A Playground to get more familiar with MS-/T-SQL
 
 ### Import the script in MS - SQL Server using Microsoft SQL Server Management Studio.
 
-Download the Studio from Microsoft. [https://aka.ms/ssmsfullsetup]
+1. Download the Studio from Microsoft. [https://aka.ms/ssmsfullsetup]
 
-To create a proper local host solution, on the network, you require The Developer edition of SQL Server [https://go.microsoft.com/fwlink/?linkid=866662].
+2. To create a proper local host solution, on the network, you require The Developer edition of SQL Server [https://go.microsoft.com/fwlink/?linkid=866662].
 
-Use your machine name to create the local host [Found using 'About My PC' in start menu].
+3. Use your machine name to create the local host [Found using 'About My PC' in start menu].
 
-Clone the repository to your machine.
+4. Clone the repository to your machine.
 
-Click the file 'JDB.sql'.
+5. Click the file 'JDB.sql'.
 
-Click 'execute'.
+6. Click 'execute'.
 
 ___________________________________________________________________________________________________________________________________________________________________________
 
 ### To Create a Query:
 
- Go to the Table Ventilators
+ 1. Go to the Table called 'Ventilators'
  
- Right click and select 'Script Table as' and 'SELECT to.'
+ 2. Right click and select 'Script Table as' and 'SELECT to.'
  
  This will open a generic query. where you may specify paramenters.
  
